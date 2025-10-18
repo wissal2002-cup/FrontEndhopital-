@@ -41,15 +41,14 @@
 .read-the-docs {
   color: #888;
 }
-*/
-/*
+
 .root {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
 }
 
-/* index.css or global CSS 
+index.css or global CSS 
 html, body  {
   margin: 0;
   padding: 0;
@@ -59,8 +58,9 @@ html, body  {
 main {
  flex:1;
 }
-*/
-/* src/styles/global.css or src/App.css */
+
+src/styles/global.css or src/App.css
+ */
 html, body {
   height: 100%;
   margin: 0;
